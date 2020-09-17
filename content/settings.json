@@ -1,23 +1,23 @@
 {
-  "store_id": 1160,
-  "name": "joseantonio",
   "domain": "joseantonio.netlify.app",
-  "short_name": "joseantonio",
-  "description": "",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#0080ff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "cerulean",
+    "custom": "clean-white"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#0080ff",
+  "logo": "/img/uploads/logo-rd-melhor.jpg",
+  "name": "RECADO DIRETO",
+  "short_name": "RD",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo-rd-melhor.jpg",
+  "country_code": "BR",
+  "secondary_color": "#00ff40",
+  "icon": "/img/uploads/logo-rd-melhor.jpg",
+  "store_id": 1160,
+  "description": "O MAIOR SITE DE VENDA FÍSICA DE MÚSICA, FILMES E GAMES - EXCLUSIVO PARA REVENDEDORES CONTRIBUINTES DO ICMS",
+  "large_icon": "/img/uploads/logo-rd-melhor.jpg"
 }
