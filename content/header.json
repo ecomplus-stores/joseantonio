@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "PARA TER ACESSO A PREÇOS E ESTOQUES É NECESSÁRIO SE CADASTRAR",
+    "link": "/promotion",
+    "background": "#0080ff",
+    "color": "#80ff80"
   },
   "contacts_stripe": {
     "pages": [
