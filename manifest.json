@@ -27,7 +27,7 @@
     }
   ],
   "name": "Rimo Direto",
-  "short_name": "RD",
+  "short_name": "RimoDireto",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
