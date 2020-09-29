@@ -4,12 +4,12 @@
   "primary_color": "#004790",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#004790",
   "logo": "/img/uploads/logo_1.webp",
   "name": "Rimo Direto",
-  "short_name": "RD",
+  "short_name": "RimoDireto",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
