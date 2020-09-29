@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "#header {\n    background-color: #004790;\n}\n\n.top-bar {\n    display: flex;\n    flex-direction: column-reverse;\n}\n.top-bar__nav {\n    font-size: 75%;\n}\n\n.top-bar__countdown {\n    font-size: 92%;\n}",
   "html_head": "",
   "html_body": ""
 }
