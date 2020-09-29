@@ -1,23 +1,23 @@
 {
   "domain": "joseantonio.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#0080ff",
+  "primary_color": "#004790",
   "theme": {
     "bootswatch": "cerulean",
     "custom": "clean-white"
   },
-  "bg_color": "#0080ff",
-  "logo": "/img/uploads/logo-rd-melhor.jpg",
-  "name": "RECADO DIRETO",
+  "bg_color": "#004790",
+  "logo": "/img/uploads/logo_1.webp",
+  "name": "Rimo Direto",
   "short_name": "RD",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/logo-rd-melhor.jpg",
+  "favicon": "/img/uploads/favicon.webp",
   "country_code": "BR",
-  "secondary_color": "#00ff40",
-  "icon": "/img/uploads/logo-rd-melhor.jpg",
+  "secondary_color": "#c2c400",
+  "icon": "/img/uploads/logo_1.webp",
   "store_id": 1160,
   "description": "O MAIOR SITE DE VENDA FÍSICA DE MÚSICA, FILMES E GAMES - EXCLUSIVO PARA REVENDEDORES CONTRIBUINTES DO ICMS",
-  "large_icon": "/img/uploads/logo-rd-melhor.jpg"
+  "large_icon": "/img/uploads/logo_1.webp"
 }
