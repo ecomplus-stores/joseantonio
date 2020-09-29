@@ -8,8 +8,8 @@
   },
   "bg_color": "#004790",
   "logo": "/img/uploads/logo_1.webp",
-  "name": "Rimo Direto",
-  "short_name": "RimoDireto",
+  "name": "RiMO DIRETO",
+  "short_name": "RiMO DIRETO",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#c2c400",
   "icon": "/img/uploads/logo_1.webp",
   "store_id": 1160,
-  "description": "O MAIOR SITE DE VENDA FÍSICA DE MÚSICA, FILMES E GAMES - EXCLUSIVO PARA REVENDEDORES CONTRIBUINTES DO ICMS",
+  "description": "O maior site de venda física de música, filmes e Games - Exclusivo para revendedores contribuintes do ICMS.\n",
   "large_icon": "/img/uploads/logo_1.webp"
 }
