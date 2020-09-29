@@ -26,12 +26,12 @@
       "type": "image/webp"
     }
   ],
-  "name": "Rimo Direto",
-  "short_name": "RimoDireto",
+  "name": "RiMO DIRETO",
+  "short_name": "RiMO DIRETO",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "O MAIOR SITE DE VENDA FÍSICA DE MÚSICA, FILMES E GAMES - EXCLUSIVO PARA REVENDEDORES CONTRIBUINTES DO ICMS",
+  "description": "O maior site de venda física de música, filmes e Games - Exclusivo para revendedores contribuintes do ICMS.\n",
   "background_color": "#004790",
   "theme_color": "#004790"
 }
