@@ -6,9 +6,14 @@
     "color": "#004790"
   },
   "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": false,
-    "socials": false
+    "pages": [
+      {
+        "title": "Sobre Nós",
+        "link": "/pages/sobre-nos"
+      }
+    ],
+    "phone_wpp": true,
+    "socials": true
   },
   "categories_list": {
     "featured": [],
