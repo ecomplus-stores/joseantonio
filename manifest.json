@@ -1,37 +1,37 @@
 {
   "icons": [
     {
-      "src": "/icon_512x512.a31ed722c2d415b7ae27c4b8db923470.jpeg",
+      "src": "/icon_512x512.f3806a41f7761a41e73323ced6be4420.webp",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/webp"
     },
     {
-      "src": "/icon_384x384.97bdc8ad13baeed30d854edc19c416a9.jpeg",
+      "src": "/icon_384x384.f3806a41f7761a41e73323ced6be4420.webp",
       "sizes": "384x384",
-      "type": "image/jpeg"
+      "type": "image/webp"
     },
     {
-      "src": "/icon_192x192.c7bbb99723bfb91c1022ca3b9b6f04d7.jpeg",
+      "src": "/icon_192x192.f3806a41f7761a41e73323ced6be4420.webp",
       "sizes": "192x192",
-      "type": "image/jpeg"
+      "type": "image/webp"
     },
     {
-      "src": "/icon_128x128.db24922f1875d3a427e1ccbd0573e12d.jpeg",
+      "src": "/icon_128x128.f3806a41f7761a41e73323ced6be4420.webp",
       "sizes": "128x128",
-      "type": "image/jpeg"
+      "type": "image/webp"
     },
     {
-      "src": "/icon_96x96.d749449a2d8783d6e9ca2bf1f3b9d28f.jpeg",
+      "src": "/icon_96x96.f3806a41f7761a41e73323ced6be4420.webp",
       "sizes": "96x96",
-      "type": "image/jpeg"
+      "type": "image/webp"
     }
   ],
-  "name": "RECADO DIRETO",
+  "name": "Rimo Direto",
   "short_name": "RD",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
   "description": "O MAIOR SITE DE VENDA FÍSICA DE MÚSICA, FILMES E GAMES - EXCLUSIVO PARA REVENDEDORES CONTRIBUINTES DO ICMS",
-  "background_color": "#0080ff",
-  "theme_color": "#0080ff"
+  "background_color": "#004790",
+  "theme_color": "#004790"
 }
