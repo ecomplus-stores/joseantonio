@@ -2,5 +2,15 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "**RiMO Direto** é o novo portal de vendas da **RiMO** pensado para apoiar você, Lojista e Distribuidor de música.\n\nAgora você abastece sua loja comprando *quando e quanto precisa**. São novas condições comerciais e formas de pagamento mais flexíveis para facilitar o seu dia. Mais de 3 mil itens a sua disposição incluindo todo o catalogo de CD’s, DVD´s e Vinil, nacional e importado, da Sony Music, Warner Music, Palavra Cantada, Novo Tempo, Som Livre e muito mais que vem por aí.\n\nMantenha-se informado e surpreenda seus clientes!\n\nCom o portal **RiMO Direto** você tem acesso em tempo real às promoções, lançamentos, produtos exclusivos e todas as novidades do mercado fonográfico.\n\nPara começar é fácil, basta clicar em “criar conta” preencher o cadastro e aguardar a aprovação para mudar a forma de abastecer sua loja.\n\nPorque aguardar a aprovação do cadastro?\n\nO portal **RiMO Direto** só atende lojistas e distribuidores, portanto antes de cadastrar precisamos ter certeza de quem é o cliente e garantir que só você, lojista, tem acesso a este benefício exclusivo.\n\nVenha para **RiMO Direto** e boas vendas!\n\n**RiMO Direto** – O seu portal de compras de música 24hs por dia.\n\n\\**pedido mínimo R$ 400,00*\n\n**RiMO Direto** é uma plataforma da **RiMO**, empresa líder no segmento de replicação e distribuição de mídia física para os segmentos de música, filmes e games, com mais de 25 anos de atuação no **Brasil**!\n\n![](/img/uploads/logo_eb89e887-8f61-418d-8f22-d4c2dd4740be_large.webp)"
+  "body": "**.**",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/logo_eb89e887-8f61-418d-8f22-d4c2dd4740be_large.webp"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "**RiMO Direto** é o novo portal de vendas da **RiMO** pensado para apoiar você, Lojista e Distribuidor de música.\n\nAgora você abastece sua loja comprando \\*quando e quanto precisa\\**. São novas condições comerciais e formas de pagamento mais flexíveis para facilitar o seu dia. Mais de 3 mil itens a sua disposição incluindo todo o catalogo de CD’s, DVD´s e Vinil, nacional e importado, da Sony Music, Warner Music, Palavra Cantada, Novo Tempo, Som Livre e muito mais que vem por aí.\n\nMantenha-se informado e surpreenda seus clientes!\n\nCom o portal **RiMO Direto** você tem acesso em tempo real às promoções, lançamentos, produtos exclusivos e todas as novidades do mercado fonográfico.\n\nPara começar é fácil, basta clicar em “criar conta” preencher o cadastro e aguardar a aprovação para mudar a forma de abastecer sua loja.\n\nPorque aguardar a aprovação do cadastro?\n\nO portal **RiMO Direto** só atende lojistas e distribuidores, portanto antes de cadastrar precisamos ter certeza de quem é o cliente e garantir que só você, lojista, tem acesso a este benefício exclusivo.\n\nVenha para **RiMO Direto** e boas vendas!\n\n**RiMO Direto** – O seu portal de compras de música 24hs por dia.\n\n\\**pedido mínimo R$ 400,00*\n\n**RiMO Direto** é uma plataforma da **RiMO**, empresa líder no segmento de replicação e distribuição de mídia física para os segmentos de música, filmes e games, com mais de 25 anos de atuação no **Brasil**!"
+    }
+  ]
 }
