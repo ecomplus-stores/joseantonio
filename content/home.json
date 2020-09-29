@@ -7,17 +7,47 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/banner_emma-bunton.webp",
+          "link": "",
+          "alt": "",
           "start": "",
           "end": ""
+        },
+        {
+          "img": "/img/uploads/banner_homegrown.webp",
+          "alt": "",
+          "start": "",
+          "end": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_-the-rock-album.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/rimodireto_banner_a2_v2_4adf4c18-328e-48a6-b469-d115000de4fc.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_anittinha.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_kehlam.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_jason_mraz.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_simply-red.webp"
         }
       ]
     },
